@@ -1,0 +1,12 @@
+{
+  "require": {
+    "php": "^7.2.0",
+    "psr/log": "~1.0",
+    "aws/aws-sdk-php": "^3.134"
+  },
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  }
+}
